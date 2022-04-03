@@ -7,8 +7,7 @@
 * Focusing on OpenSource Software
 * Using STM32 & ESP32 & WCH
 
-### 🌱 I’m currently learning
+### 🌱 learning
 
-* BLE
-* LWIP
+* BLE & BLE MESH
 * 6LOWPAN
