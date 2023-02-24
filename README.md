@@ -12,5 +12,3 @@
 * BLE & BLE MESH
 * 6LOWPAN
 * LINUX
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartmx&show_icons=true&theme=flag-india&layout=compact" height="180" />
