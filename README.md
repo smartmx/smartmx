@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=smartmx&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&layout=compact" />
-
 **Hi, You are my NO.** ![Visitor Count](https://profile-counter.glitch.me/smartmx/count.svg) **visitor, Welcome!**
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=smartmx&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&layout=compact" />
 
 ***I'm an Embedded Software Engineer***
 
@@ -11,3 +11,6 @@
 
 * BLE & BLE MESH
 * 6LOWPAN
+* LINUX
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartmx&show_icons=true&theme=flag-india&layout=compact" height="180" />
